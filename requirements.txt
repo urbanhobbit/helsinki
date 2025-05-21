@@ -1,6 +1,5 @@
 streamlit
 python-docx
 spacy
-networkx as nx
-json
-os
+networkx
+pyvis
