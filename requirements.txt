@@ -1,5 +1,5 @@
 streamlit
-docx
+python-docx
 spacy
 networkx as nx
 json
