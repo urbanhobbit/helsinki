@@ -1,0 +1,6 @@
+streamlit
+docx
+spacy
+networkx as nx
+json
+os
