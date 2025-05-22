@@ -26,7 +26,7 @@ To set up the application, follow these steps:
 1.  **Clone the repository (if applicable) or ensure you have the `word_to_kg_app.py` file.**
 2.  **Install the required Python packages:**
     ```bash
-    pip install streamlit python-docx spacy pyvis networkx rdflib
+    pip install -r requirements.txt
     ```
 3.  **Download the spaCy English language model:**
     ```bash
